@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/../rtdms/RTDMS2/RTDMS2-client/RTDMS2-clientUI/package.json" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../rtdms/RTDMS2/RTDMS2-client/RTDMS2-clientUI/src/environments/environment.ts" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../rtdms/RTDMS2/RTDMS2-client/RTDMS2-clientUI/src/tsconfig.app.json" charset="UTF-8" />
-  </component>
-</project>
